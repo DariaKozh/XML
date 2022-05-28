@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+<name>Дарья</name>
+<surname>Кожанова</surname>
+<age>33</age>
+<pet>
+<name>Мурка</name>
+<age>3</age>
+</pet>
+<children>
+<child category="son">
+<name>Тима</name>
+<age>6</age>
+</child>
+<child category="daughter">
+<name>Ксюша</name>
+<age>3</age>
+</child>
+</children>
+<married>true</married>
+<desiredsalary>200000</desiredsalary>
+</person>
