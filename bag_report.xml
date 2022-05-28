@@ -1,1 +1,12 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<bag_report>
+  <id>1</id>
+  <name>Кнопка Войти не кликабельна</name>
+  <steps>
+    <step>Открыть сайт</step>
+    <step>Нажать авторизоваться</step>
+  </steps>
+  <expected_result>Кнопка Войти кликабельна</expected_result>
+  <actual_result>Кнопка Войти некликабельна</actual_result>
+  <environment>Win10</environment>
+</bag_report>
